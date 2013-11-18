@@ -1,3 +1,6 @@
+build.xml
+proguard-project.txt
+project.properties
 local.properties
 .idea/*
 .settings/
